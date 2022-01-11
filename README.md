@@ -1,3 +1,3 @@
 IZHV - exerciese 3
 
-Alena Klimecká
+In this exercise, you will implement a couple of simple behaviors, work with the Unity Input System, and implement local multiplayer.
