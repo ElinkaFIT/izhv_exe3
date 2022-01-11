@@ -667,8 +667,48 @@ MonoBehaviour:
         m_CallState: 2
     m_ActionId: af73e218-c6a8-4728-9356-a5ac1f0bfe5b
     m_ActionName: PlayerControl/ToggleInvincible[/Keyboard/c]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 3fd37bae-6bb5-4e98-9745-e28653e2849c
+    m_ActionName: UI/Navigate[/Keyboard/w,/Keyboard/upArrow,/Keyboard/s,/Keyboard/downArrow,/Keyboard/a,/Keyboard/leftArrow,/Keyboard/d,/Keyboard/rightArrow]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: c8e9e12a-bf85-425b-a540-c7c6434860fd
+    m_ActionName: UI/Submit[/Keyboard/enter]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 53cb36e7-a89a-4556-918e-c75de3b49c48
+    m_ActionName: UI/Cancel[/Keyboard/escape]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 569660b1-9056-4a9d-8897-d4d627ab39c2
+    m_ActionName: UI/Point[/Mouse/position]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 2bc1ee4b-98a6-47c2-aa9c-2b8e1bca52f0
+    m_ActionName: UI/Click[/Mouse/leftButton]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 87b97dfb-4aca-44e5-afe5-cefc4f2c9cdd
+    m_ActionName: UI/ScrollWheel[/Mouse/scroll]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: f6adef3d-b9cc-475a-9ba9-f1c282582481
+    m_ActionName: UI/MiddleClick[/Mouse/middleButton]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: c8e846d6-8532-4c1d-8f39-e01b0eaa01ff
+    m_ActionName: UI/RightClick[/Mouse/rightButton]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 19d6e7f3-3270-4ab9-839d-85e29016e756
+    m_ActionName: UI/TrackedDevicePosition
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: a464e659-f1c1-4584-a512-ba25f1f7bdb9
+    m_ActionName: UI/TrackedDeviceOrientation
   m_NeverAutoSwitchControlSchemes: 1
-  m_DefaultControlScheme: M&K
+  m_DefaultControlScheme: M&K1
   m_DefaultActionMap: PlayerControl
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
